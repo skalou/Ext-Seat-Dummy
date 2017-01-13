@@ -8,7 +8,7 @@ For a more precise aerodynamic you need to surface attach it.
 Warranty void if exposed to vibrations or sunlight, but whatever, i know you will forget to remove it before flights... 
 
 
-You have to install the mod "Module Manager" to make this mod works properly ( not included, you must download it separately)
+You must install the mod "Module Manager" to make this mod works properly ( not included, you must download it separately)
 It use the "KSP Add-on Version Checker" mod if you have it installed (not included) to check its version by using a connexion on my github page given below,
 read the "KSP-AVC Add-on Version Checker" page for more details.
 
