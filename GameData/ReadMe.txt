@@ -46,7 +46,3 @@ Installation:
 - On update remove any existing older version.
 
 - Enjoy!
-
- 
-
-License 
