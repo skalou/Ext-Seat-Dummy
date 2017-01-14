@@ -27,6 +27,8 @@ Compatibility:
 
 -KSP-AVC
 
+-CorrectCOL
+
 -Stock: EAS-1 External Command Seat
 
 -MK-1 Stockalike open cockpit
