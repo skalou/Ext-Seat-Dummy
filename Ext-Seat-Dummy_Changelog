@@ -1,2 +1,8 @@
+### 0.2.0. (06 february 2017)
+- updated the 3d model.
+- Created a parts folder and moved the model in.
+- Added compatibility patch for the "Akita Command seat" part from USI Konstruction.
+- Added sources:3D model available on github.
+
 ### 0.1.0. (11 january 2017)
 - Initial pre-release.
