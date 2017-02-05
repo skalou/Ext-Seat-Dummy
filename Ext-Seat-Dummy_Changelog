@@ -1,4 +1,5 @@
 ### 0.2.0. (06 february 2017)
+- Added a compatibility patch for KSP-v1.1.3 (read the instructions to know how to enable it)
 - updated the 3d model.
 - Created a parts folder and moved the model in.
 - Added compatibility patch for the "Akita Command seat" part from USI Konstruction.
