@@ -19,7 +19,7 @@ Dependancy mods:
 
 Installation:
 
-- Be sure to have Module Manager installed ( not included in this dowload)
+- Be sure to have Module Manager installed (not included in this download)
 
 - Copy/paste the folder "Ext-Seat-Dummy" in your "Kerbal Space Program/GameData" directory.
 
