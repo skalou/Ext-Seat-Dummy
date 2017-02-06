@@ -3,7 +3,7 @@
 - Updated the 3d model.
 - Created a parts folder and moved the model in.
 - Added compatibility patch for the "Akita Command seat" part from USI Konstruction.
-- Added sources:3D model available on github.
+- Added sources:3D model in .blend .obj and an (old)high poly model available on github.
 
 ### 0.1.0. (11 january 2017)
 - Initial pre-release.
