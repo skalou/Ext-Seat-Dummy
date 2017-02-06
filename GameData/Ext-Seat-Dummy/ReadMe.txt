@@ -16,31 +16,6 @@ Dependancy mods:
 
  - Module Manager (not included)
 
-Suggests:
-
--RCS build aid
-
--Take Command
-
-
-Compatibility:
-
--KSP-AVC
-
--Stock: EAS-1 External Command Seat
-
--MK-1 Stockalike open cockpit
-
--Kerbonov
-
--Buffalo
-
--Omicron
-
--SXTContinued
-
--USIExploration
-
 
 Installation:
 
@@ -54,4 +29,6 @@ Installation:
 
 - Enjoy!
 
-Forum Link: http://forum.kerbalspaceprogram.com/index.php?/topic/154961-wip-122-ext-seat-dummy-v010/
+
+Forum Link:
+http://forum.kerbalspaceprogram.com/index.php?showtopic=154961

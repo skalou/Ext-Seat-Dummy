@@ -1,0 +1,4 @@
+@category = Pods
+!node_stack_nose = 0,1,2,3,4,5,6
+!node_stack_ladder = 0,1,2,3,4,5,6
+//!node_stack_back = 0,1,2,3,4,5,6
