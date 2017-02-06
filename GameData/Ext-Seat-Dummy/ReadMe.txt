@@ -50,7 +50,7 @@ Installation:
 
 - On update remove any existing older version.
 
-- You can activate a MM_KSP-version.cfg compatibility patch in "Ext-Seat-Dummy/ModuleManager_Patch", just rename the ".txt" extension to ".cfg", be sure to have only 1 activated at the same time.
+- If needed, you can activate a MM_KSP-version.cfg compatibility patch in "Ext-Seat-Dummy/ModuleManager_Patch", just rename the ".txt" extension to ".cfg", be sure to have only 1 activated at the same time.
 
 - Enjoy!
 
