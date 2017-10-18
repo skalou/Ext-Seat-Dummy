@@ -1,5 +1,11 @@
 Ext-Seat-Dummy
 
+### 0.3.0. (18 october 2017)
+- Now Auto updates the parameters from the different KSP versions with the power of module manager.
+- Changed the node stack position ( now on 0,0,0).
+- easier to add a copatibility patch for modded parts.
+- Updated compatibilty patches.
+
 ### 0.2.0. (06 february 2017)
 - Added a compatibility patch for KSP-v1.1.3 (read the installation instructions to know how to enable it)
 - Updated the 3d model.
