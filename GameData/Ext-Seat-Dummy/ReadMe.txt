@@ -16,19 +16,42 @@ Dependancy mods:
 
  - Module Manager (not included)
 
+Suggests:
+
+-RCS build aid
+
+-Take Command
+
+
+Compatibility:
+
+-KSP-AVC
+
+-Stock: EAS-1 External Command Seat
+
+-MK-1 Stockalike open cockpit
+
+-Kerbonov
+
+-Buffalo
+
+-Omicron
+
+-SXTContinued
+
+-USIExploration
+
 
 Installation:
 
-- On update remove any existing older version.
-
-- Be sure to have Module Manager installed (not included in this download)
+- Be sure to have Module Manager installed ( not included in this dowload)
 
 - Copy/paste the folder "Ext-Seat-Dummy" in your "Kerbal Space Program/GameData" directory.
+
+- On update remove any existing older version.
 
 - If needed, you can activate a MM_KSP-version.cfg compatibility patch in "Ext-Seat-Dummy/ModuleManager_Patch", just rename the ".txt" extension to ".cfg", be sure to have only 1 activated at the same time.
 
 - Enjoy!
 
-
-Forum Link:
-http://forum.kerbalspaceprogram.com/index.php?showtopic=154961
+Forum Link: http://forum.kerbalspaceprogram.com/index.php?/topic/154961-wip-122-ext-seat-dummy-v010/
